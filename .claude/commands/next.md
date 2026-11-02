@@ -1,0 +1,1 @@
+Read Docs/TRACKER.md. Find the next unchecked task in the current milestone. Summarise where the project stands in 2–3 lines, then give a short plan for that task: files you'll create or change, any new Inspector properties, and how I'll test it in the Editor. Wait for my go-ahead before writing code.
